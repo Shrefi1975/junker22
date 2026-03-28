@@ -14,7 +14,7 @@ const floatingVariants = {
     transition: {
       duration: 3 + i * 0.5,
       repeat: Infinity,
-      ease: "easeInOut",
+      ease: "easeInOut" as const,
     },
   }),
 };
@@ -26,7 +26,7 @@ const glowPulse = {
       "0 0 40px rgba(249,115,22,0.3)",
       "0 0 20px rgba(249,115,22,0.15)",
     ],
-    transition: { duration: 2.5, repeat: Infinity, ease: "easeInOut" },
+    transition: { duration: 2.5, repeat: Infinity, ease: "easeInOut" as const },
   },
 };
 
