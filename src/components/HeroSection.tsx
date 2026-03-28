@@ -35,7 +35,7 @@ const HeroSection = () =>
         className="text-2xl sm:text-4xl md:text-5xl lg:text-6xl font-bold text-white leading-tight mb-4 sm:mb-6 px-0"
         style={{ textShadow: "0 2px 20px rgba(0,0,0,0.7)" }}>
         
-          أفضل تجربة <span className="text-accent">IPTV</span> عالمية بدون تقطيع
+          أفضل اشتراك <span className="text-accent">IPTV</span> في السعودية بجودة 4K بدون تقطيع
         </motion.h1>
 
         <motion.p
@@ -45,7 +45,7 @@ const HeroSection = () =>
         className="text-sm sm:text-lg md:text-xl text-white mb-4 sm:mb-6 max-w-2xl mx-auto leading-relaxed px-2"
         style={{ textShadow: "0 1px 10px rgba(0,0,0,0.6)" }}>
         
-          استمتع بآلاف القنوات المباشرة والمحتوى الترفيهي المتجدد بجودة عالية وسرعة بث فائقة على جميع أجهزتك.
+          اشتراك IPTV سعودي موثوق — استمتع بأكثر من 10,000 قناة مباشرة، أفلام، مسلسلات، ومباريات رياضية بجودة 4K فائقة على جميع أجهزتك. باقات تبدأ من 30 ريال مع تفعيل فوري.
         </motion.p>
 
         {/* Post-payment info banner */}

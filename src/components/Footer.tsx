@@ -118,7 +118,7 @@ const Footer = () =>
 
       <div className="border-t border-white/10 pt-6 flex flex-col md:flex-row items-center justify-between gap-4">
         <p className="text-sm text-primary-foreground">© {new Date().getFullYear()} Junker22. جميع الحقوق محفوظة</p>
-        <p className="text-sm text-primary-foreground">أفضل خدمة IPTV في السعودية</p>
+        <p className="text-sm text-primary-foreground">أفضل اشتراك IPTV في السعودية — بث مباشر 4K بدون تقطيع</p>
       </div>
     </div>
   </footer>;

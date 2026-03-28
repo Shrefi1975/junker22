@@ -10,7 +10,7 @@ const StepsSection = () =>
 <section className="py-20 bg-background">
     <div className="container mx-auto lg:px-8 py-0 px-0">
       <h2 className="text-3xl md:text-4xl font-bold text-center text-foreground mb-12">
-        كيف تبدأ في <span className="text-gradient">3 خطوات</span> بسيطة؟
+        كيف تشترك في <span className="text-gradient">IPTV</span> في 3 خطوات بسيطة؟
       </h2>
 
       <div className="grid grid-cols-1 md:grid-cols-3 gap-8 max-w-4xl mx-auto relative">
