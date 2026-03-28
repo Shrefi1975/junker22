@@ -67,11 +67,11 @@ const WhyUsSection = () =>
           لماذا نحن الأفضل؟
         </motion.span>
         <h2 className="text-3xl md:text-4xl font-bold text-foreground mb-4 leading-snug">
-          لماذا اشتراكاتنا هي{" "}
-          <span className="text-gradient">الخيار الأفضل</span>
+          لماذا Junker22 هو{" "}
+          <span className="text-gradient">أفضل سيرفر IPTV في السعودية</span>
         </h2>
         <p className="text-base md:text-lg max-w-2xl mx-auto text-popover-foreground">
-          اكتشف ما يميزنا عن غيرنا ولماذا يثق بنا أكثر من 50,000 مشترك
+          اكتشف لماذا يثق أكثر من 50,000 مشترك سعودي بخدمة IPTV لدينا
         </p>
       </motion.div>
 

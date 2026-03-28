@@ -94,9 +94,9 @@ const PricingSection = () =>
 <section id="pricing" className="py-20 bg-muted">
     <div className="container mx-auto px-4 lg:px-8">
       <h2 className="text-3xl md:text-4xl font-bold text-center text-foreground mb-4">
-        باقات <span className="text-accent">IPTV</span> المناسبة لك
+        أسعار باقات اشتراك <span className="text-accent">IPTV</span> في السعودية
       </h2>
-      <p className="text-center mb-4 text-popover-foreground text-lg">اختر اشتراك IPTV الأنسب واستمتع بالبث فوراً</p>
+      <p className="text-center mb-4 text-popover-foreground text-lg">اختر اشتراك IPTV الأنسب لك — باقات شهرية وسنوية بأسعار منافسة مع تفعيل فوري</p>
 
       {/* Post-payment global notice */}
       <motion.div
